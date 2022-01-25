@@ -17,3 +17,6 @@ Big Data Analytics Lifecycle
   7. Data analysis
   8. Data visualization
   9. Utilization of analysis results
+
+
+There are five important aspects to analytical skills. They are curiosity, understanding context, having technical mindset, data design, and data strategy. 
